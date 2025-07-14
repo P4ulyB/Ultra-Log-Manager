@@ -459,6 +459,8 @@ All logs are written in structured JSON format:
 }
 ```
 
+<img width="498" height="529" alt="image" src="https://github.com/user-attachments/assets/6b66d103-6192-4f8b-97bc-c88441dcb61c" />
+
 --- File Naming
 
 Log files follow the pattern: `ULM_Channel_YYYYMMDD_XXX.json`
